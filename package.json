@@ -1,0 +1,21 @@
+{
+  "name": "graphql-blog",
+  "version": "0.0.1",
+  "description": "A GraphQL course",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphql",
+    "node"
+  ],
+  "author": "Igor Luíz <igor@devstacks.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-graphql": "^0.6.2",
+    "graphql": "^0.9.1"
+  }
+}
